@@ -22,11 +22,10 @@
 [<img align="left" alt="Node.js" width="26px" src="https://w7.pngwing.com/pngs/777/698/png-transparent-node-js-javascript-software-developer-npm-github-angle-text-logo.png" />][nodejs]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Tailwind" width="26px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" />][tailwind]
-[<img align="left" alt="Redux" width="26px" src="https://redux.js.org/img/redux.svg" />][redux]
+<!-- [<img align="left" alt="Redux" width="26px" src="https://redux.js.org/img/redux.svg" />][redux] -->
 [<img align="left" alt="React-Router" width="26px" src="https://seeklogo.com/images/R/react-router-logo-AB5BFB638F-seeklogo.com.png" />][react-router]
-[<img align="left" alt="React-Router" width="26px" src="https://pagepro.co/blog/wp-content/uploads/2020/03/framer-motion.png" />][framer-motion]
-[<img align="left" alt="Firebase" width="26px" height="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" />][firebase]
+<!-- [<img align="left" alt="React-Router" width="26px" src="https://pagepro.co/blog/wp-content/uploads/2020/03/framer-motion.png" />][framer-motion] -->
+<!-- [<img align="left" alt="Firebase" width="26px" height="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" />][firebase] -->
 
 <br />
 <br />
@@ -43,9 +42,5 @@
 [react]: https://reactjs.org/
 [git]: https://git-scm.com/
 [github]: https://github.com/
-[tailwind]: https://tailwindcss.com/
-[redux]: https://redux.js.org/
 [react-router]: https://reactrouter.com/
-[framer-motion]: https://www.framer.com/motion/
-[firebase]: https://firebase.google.com/
 [course]: https://sigma-rules.netlify.app/
