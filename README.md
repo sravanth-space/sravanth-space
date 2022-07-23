@@ -7,7 +7,7 @@
 
 [<img align="left" alt="tarunfy | Website" width="22px" src="http://clipart-library.com/image_gallery/n1275662.png" />][website]
 [<img align="left" alt="tarunfy | Twitter" width="22px" src="https://vta.com.au/wp-content/uploads/2017/08/twitter-icon.gif" />][twitter]
-[<img align="left" alt="tarunfy | Instagram" width="22px" src="https://cdn.chromalux.media/wp-content/uploads/2017/06/instagram-icon-white.png" />][instagram]
+[<img align="left" alt="tarunfy | Instagram" width="22px" src="[https://cdn.chromalux.media/wp-content/uploads/2017/06/instagram-icon-white.png](https://commons.wikimedia.org/wiki/File:Instagram_icon.png)" />][instagram]
 
 <br />
 
