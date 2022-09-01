@@ -70,3 +70,6 @@
 <a href="https://www.instagram.com/sravanth_baratam/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sravanth_baratam-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:sravanthbaratam@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sravanthbaratam@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=default&font=default)
