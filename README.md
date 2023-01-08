@@ -52,7 +52,12 @@
  ![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
 - 🎨 &nbsp; <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
-
+<div align=center>
+  <a href="https://www.linkedin.com/in/sravanth-baratam-49ab3aba/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
+  <a href="https://twitter.com/sravanthbaratam"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+  <br><br>
+ <p><img src="https://komarev.com/ghpvc/?username=sravanthbaratam" alt="sravanthbaratam" /></p>
+</div>
 <br/>
 
 <a href="https://github.com/sravanthbaratam">
