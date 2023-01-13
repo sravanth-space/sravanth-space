@@ -71,4 +71,4 @@
 <a href="mailto:sravanthbaratam@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sravanthbaratam@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://raw.githubusercontent.com/sravanthbaratam/sravanthbaratam/main/devcard.svg" width="400" alt="Sravanth Baratam's Dev Card"/></a>
+<a href="https://app.daily.dev/sravanth"><img src="https://raw.githubusercontent.com/sravanthbaratam/sravanthbaratam/main/devcard.svg" width="400" alt="Sravanth Baratam's Dev Card"/></a>
