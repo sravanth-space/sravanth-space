@@ -70,3 +70,5 @@
 <a href="https://www.instagram.com/sravanth_baratam/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sravanth_baratam-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:sravanthbaratam@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sravanthbaratam@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://raw.githubusercontent.com/sravanthbaratam/sravanthbaratam/main/devcard.svg" width="400" alt="Sravanth Baratam's Dev Card"/></a>
