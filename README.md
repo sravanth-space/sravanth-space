@@ -35,16 +35,16 @@
 <table>
   <tr>
     <td>
-      <img height="190" src="https://github-readme-stats.vercel.app/api?username=sravanthbaratam&show_icons=true&theme=dark" />
+      <img height="190" src="https://github-readme-stats.vercel.app/api?username=sravanth299&show_icons=true&theme=dark" />
     </td>
     <td>
-      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravanthbaratam&layout=compact&theme=dark" />
+      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravanth299&layout=compact&theme=dark" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sravanthbaratam&layout=compact&theme=dark" alt="Sravanth Baratam"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sravanth299&layout=compact&theme=dark" alt="Sravanth"/></p>
 </div>
 
 <br />
@@ -55,21 +55,19 @@
 
 <!--  [![Sravanth Baratam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sravanthbaratam&&theme=xcode)](https://github.com/sravanthbaratam) -->
 
-[![Sravanth Baratam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sravanthbaratam&bg_color=0d1117&color=616090&line=3b3b3b&point=3e3c3c&area=true&hide_border=true)](https://github.com/sravanthbaratam)
+[![Sravanth's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sravanth299&bg_color=0d1117&color=616090&line=3b3b3b&point=3e3c3c&area=true&hide_border=true)](https://github.com/sravanth299)
 
  </div>
 <br/>
- <p align="center"><img src="https://komarev.com/ghpvc/?username=sravanthbaratam" alt="sravanthbaratam" /></p>
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=sravanth299" alt="sravanth" /></p>
 
 <br/>
  <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <!-- <p align="center"> -->
-[![Portfolio](https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome)](https://sravanthbaratam.github.io/developerFolio/)
-  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sravanthbaratam/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sravanth-baratam/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sravanth_baratam/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sravanthbaratam@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome)](https://sravanth.co.uk)
+  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sravanth299/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sravk299@gmail.com)
 [![Paypal](https://img.shields.io/badge/-Paypal-c14438?style=flat&logo=Paypal&logoColor=Green)](https://www.paypal.me/SBaratam?locale.x=en_GB)
 <!-- </p> -->
 
