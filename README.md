@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hi there, I'm Sravanth</h1>
 </p>
 
-<p align="center">I am a passionate Software Developer 🚀 having an experience of building Full Stack Web Applications with React / FastAPI and some other cool libraries and frameworks.</p>
+<p align="center">I am a passionate Software Developer 🚀 having an experience of building Full Stack Web Applications.</p>
 
 <br />
 
