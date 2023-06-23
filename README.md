@@ -1,8 +1,8 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Sravanth</h1>
+  <h1 align="center"><b>Hi there <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" /></h1>
 </p>
 
-<p align="center">I am a passionate Software Developer 🚀 having an experience of building Full Stack Web Applications.</p>
+<p align="center">I am a passionate Software Developer 🚀 having an experience of building Full Stack Web Applications<img align=center src="https://user-images.githubusercontent.com/26017543/213364962-e9e6b262-0dc8-4cca-9914-7f336340e26d.png" alt="Web" width="36" height="36" /></p>
 
 <br />
 
@@ -55,7 +55,7 @@
 
 <!--  [![Sravanth Baratam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sravanthbaratam&&theme=xcode)](https://github.com/sravanthbaratam) -->
 
-[![Sravanth's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sravanth299&bg_color=0d1117&color=616090&line=3b3b3b&point=3e3c3c&area=true&hide_border=true)](https://github.com/sravanth299)
+[![Sravanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sravanth299&theme=react-dark)](https://github.com/sravanth299)
 
  </div>
 <br/>
