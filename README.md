@@ -35,16 +35,16 @@
 <table>
   <tr>
     <td>
-      <img height="190" src="https://github-readme-stats.vercel.app/api?username=sravanth299&show_icons=true&theme=dark" />
+      <img height="190" src="https://github-readme-stats.vercel.app/api?username=sravanth-space&show_icons=true&theme=dark" />
     </td>
     <td>
-      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravanth299&layout=compact&theme=dark" />
+      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravanth-space&layout=compact&theme=dark" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sravanth299&layout=compact&theme=dark" alt="Sravanth"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sravanth-space&layout=compact&theme=dark" alt="Sravanth"/></p>
 </div>
 
 <br />
@@ -55,18 +55,18 @@
 
 <!--  [![Sravanth Baratam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sravanthbaratam&&theme=xcode)](https://github.com/sravanthbaratam) -->
 
-[![Sravanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sravanth299&theme=react-dark)](https://github.com/sravanth299)
+[![Sravanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sravanth-space&theme=react-dark)](https://github.com/sravanth-space)
 
  </div>
 <br/>
- <p align="center"><img src="https://komarev.com/ghpvc/?username=sravanth299" alt="sravanth" /></p>
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=sravanth-space" alt="sravanth" /></p>
 
 <br/>
  <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <!-- <p align="center"> -->
 [![Portfolio](https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome)](https://sravanth.co.uk)
-  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sravanth299/)
+  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sravanth-space/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sravk299@gmail.com)
 [![Paypal](https://img.shields.io/badge/-Paypal-c14438?style=flat&logo=Paypal&logoColor=Green)](https://www.paypal.me/SBaratam?locale.x=en_GB)
 <!-- </p> -->
