@@ -44,7 +44,7 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sravanth-space&layout=compact&theme=dark" alt="Sravanth"/></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=sravanth-space&layout=compact&theme=dark" alt="Sravanth"/></p>
 </div>
 
 <br />
